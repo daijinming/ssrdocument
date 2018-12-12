@@ -18,8 +18,8 @@
     ![image](http://upload-images.jianshu.io/upload_images/5833359-e0cc2af3c8a3b1e7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
     “系统代理模式”选择”PAC”->”代理规则”选择”全局”->取消”负载均衡”前的勾选
-    [图片上传失败...(image-727ac8-1544607394310)]
-
+    ![pc2.gif](https://upload-images.jianshu.io/upload_images/5833359-ea2df9365ec04fba.gif?imageMogr2/auto-orient/strip)
+    
 5.  此时小飞机应为绿色，打开[谷歌](https://google.com/)测试
 
 # IOS
